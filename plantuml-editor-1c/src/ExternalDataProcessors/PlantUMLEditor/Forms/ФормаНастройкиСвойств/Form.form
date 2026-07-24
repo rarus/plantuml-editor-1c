@@ -4,6 +4,10 @@
     <key>ru</key>
     <value>Настройка свойств</value>
   </title>
+  <title>
+    <key>en</key>
+    <value>Setting up Properties</value>
+  </title>
   <items xsi:type="form:FormField">
     <name>Наименование</name>
     <id>42</id>
@@ -219,6 +223,10 @@
         <key>ru</key>
         <value>ПриемникЗаменить</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Receiver to replace</value>
+      </title>
       <extendedTooltip>
         <name>ИсточникЗаменитьРасширеннаяПодсказка</name>
         <id>46</id>
@@ -247,6 +255,10 @@
     <title>
       <key>ru</key>
       <value>ГруппаДляСвязи</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Communication Group</value>
     </title>
     <extendedTooltip>
       <name>ГруппаДляСвязиРасширеннаяПодсказка</name>
@@ -294,6 +306,10 @@
         <key>ru</key>
         <value>Свойство</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Property</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -340,6 +356,10 @@
       <title>
         <key>ru</key>
         <value>Значение</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Meaning</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -514,6 +534,10 @@
         <key>ru</key>
         <value>КартинкаДиаграммыПоследовательности</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Picture of the Sequence Diagram</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -548,6 +572,10 @@
         <key>ru</key>
         <value>КартинкаДиаграммыДеятельности</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Picture of the Program activity</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -581,6 +609,10 @@
       <title>
         <key>ru</key>
         <value>КартинкаДиаграммыКлассов</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>A picture of a class's program</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -619,6 +651,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаend</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectend</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -652,6 +688,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаfork</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture offork objectfork</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -687,6 +727,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаbreak</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of Thebreak objectreferences</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -720,6 +764,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаwhile</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectwhile</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -755,6 +803,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаswitch</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectswitch</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -788,6 +840,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаif</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectif</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -823,6 +879,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаstart</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectstart</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -856,6 +916,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаdo</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectdo</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -893,6 +957,10 @@
         <key>ru</key>
         <value>ГруппаКартинокДиаграммыДеятельности</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>groupcarthinocdiagramme of activity</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаКартинокДиаграммыДеятельностиРасширеннаяПодсказка</name>
         <id>155</id>
@@ -924,6 +992,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаqueue</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectqueue</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -959,6 +1031,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаcollections</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectcollections</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -992,6 +1068,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаdatabase</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Database objectdatabase</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1027,6 +1107,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаparticipant</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectparticipant</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1060,6 +1144,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаcontrol</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Controlobject</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1095,6 +1183,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаboundary</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of an objectboundary</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1129,6 +1221,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаactor</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectactor</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1162,6 +1258,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаparticipant</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectparticipant</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1199,6 +1299,10 @@
         <key>ru</key>
         <value>ГруппаКартинокДиаграммыПоследовательностей</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>A group of Picture diagrams of sequences</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаКартинокДиаграммыПоследовательностейРасширеннаяПодсказка</name>
         <id>129</id>
@@ -1230,6 +1334,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовstruct</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The picture of the program classstruct</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1265,6 +1373,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовprotocol</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Classprotocol program</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1298,6 +1410,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовinterface</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The picture of the Classinterface program</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1333,6 +1449,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовenum</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The picture of the programclass is</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1366,6 +1486,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовentity</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclassentity</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1401,6 +1525,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовАссоциацияуменьшеннаяформа</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclass Association of the smaller form</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1434,6 +1562,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовdiamond</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a Classdiamond program</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1469,6 +1601,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовclass</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a classgramclass</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1502,6 +1638,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовКругуменьшеннаяформа</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclass with a smaller form</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1537,6 +1677,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовcircle</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a Classcircle program</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1570,6 +1714,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовabstractclass</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a classagramsabstractclass</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1605,6 +1753,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовabstract</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Classabstract program</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1639,6 +1791,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаМетод</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectmethod</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1672,6 +1828,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаПоле</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Objectfield</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1709,6 +1869,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаСвязь</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectconnection</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1742,6 +1906,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовannotation</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclassannotation</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1779,6 +1947,10 @@
         <key>ru</key>
         <value>ГруппаКартинокДиаграммыКлассов</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>A group of class maps and programs</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаКартинокДиаграммыКлассовРасширеннаяПодсказка</name>
         <id>79</id>
@@ -1807,6 +1979,10 @@
       <title>
         <key>ru</key>
         <value>Серый</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Gray</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1842,6 +2018,10 @@
         <key>ru</key>
         <value>Синий</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Blue</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -1875,6 +2055,10 @@
       <title>
         <key>ru</key>
         <value>Желтый</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Yellow</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1910,6 +2094,10 @@
         <key>ru</key>
         <value>Зеленый</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Green</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -1943,6 +2131,10 @@
       <title>
         <key>ru</key>
         <value>Красный</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Red</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1979,6 +2171,10 @@
       <key>ru</key>
       <value>Группа картинки</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Image Group</value>
+    </title>
     <extendedTooltip>
       <name>ГруппаКартинкиРасширеннаяПодсказка</name>
       <id>53</id>
@@ -2010,6 +2206,10 @@
       <title>
         <key>ru</key>
         <value>Записать</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Record</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2062,6 +2262,10 @@
       <key>ru</key>
       <value>Набор свойств</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Set of properties</value>
+    </title>
     <id>1</id>
     <valueType>
       <types>ValueTable</types>
@@ -2078,6 +2282,10 @@
       <title>
         <key>ru</key>
         <value>Наименование</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Name</value>
       </title>
       <id>2</id>
       <valueType>
@@ -2096,6 +2304,10 @@
       <title>
         <key>ru</key>
         <value>Значение</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Meaning</value>
       </title>
       <id>3</id>
       <valueType>
@@ -2117,6 +2329,10 @@
         <key>ru</key>
         <value>Свойство</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Property</value>
+      </title>
       <id>4</id>
       <valueType>
         <types>String</types>
@@ -2137,6 +2353,10 @@
         <key>ru</key>
         <value>Тип значения</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Value type</value>
+      </title>
       <id>7</id>
       <valueType>
         <types>TypeDescription</types>
@@ -2153,6 +2373,10 @@
       <title>
         <key>ru</key>
         <value>Доступные значения</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Available values</value>
       </title>
       <id>8</id>
       <valueType>
@@ -2171,6 +2395,10 @@
         <key>ru</key>
         <value>Только доступные значения</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Only available values</value>
+      </title>
       <id>9</id>
       <valueType>
         <types>Boolean</types>
@@ -2188,6 +2416,10 @@
         <key>ru</key>
         <value>Представление значения</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Representation of the value</value>
+      </title>
       <id>10</id>
       <valueType/>
       <view>
@@ -2202,6 +2434,10 @@
       <title>
         <key>ru</key>
         <value>Ограничение использования</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Limitation of use</value>
       </title>
       <id>11</id>
       <valueType>
@@ -2221,6 +2457,10 @@
         <key>ru</key>
         <value>Только просмотр</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Viewing only</value>
+      </title>
       <id>12</id>
       <valueType>
         <types>Boolean</types>
@@ -2237,6 +2477,10 @@
       <title>
         <key>ru</key>
         <value>Тип диаграммы</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Chart Type</value>
       </title>
       <id>13</id>
       <valueType>
@@ -2259,6 +2503,10 @@
       <key>ru</key>
       <value>Объект</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>An object</value>
+    </title>
     <id>6</id>
     <valueType>
       <types>ExternalDataProcessor.PlantUMLEditor</types>
@@ -2276,6 +2524,10 @@
       <key>ru</key>
       <value>Одинаковые свойства</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>The same properties</value>
+    </title>
     <id>15</id>
     <valueType>
       <types>ValueTable</types>
@@ -2291,6 +2543,10 @@
       <title>
         <key>ru</key>
         <value>Свойство</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Property</value>
       </title>
       <id>16</id>
       <valueType>
@@ -2309,6 +2565,10 @@
       <title>
         <key>ru</key>
         <value>Тип диаграммы</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Chart Type</value>
       </title>
       <id>17</id>
       <valueType>
@@ -2331,6 +2591,10 @@
       <key>ru</key>
       <value>Это свойства диаграммы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>These are the properties of the diagram</value>
+    </title>
     <id>18</id>
     <valueType>
       <types>Boolean</types>
@@ -2347,6 +2611,10 @@
     <title>
       <key>ru</key>
       <value>Текущий заголовок диаграммы</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Current chart title</value>
     </title>
     <id>19</id>
     <valueType>
@@ -2365,6 +2633,10 @@
     <title>
       <key>ru</key>
       <value>Тип диаграммы</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Chart Type</value>
     </title>
     <id>20</id>
     <valueType>
@@ -2385,6 +2657,10 @@
       <key>ru</key>
       <value>Вид свойств</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Type of properties</value>
+    </title>
     <id>21</id>
     <valueType>
       <types>String</types>
@@ -2402,6 +2678,10 @@
     <title>
       <key>ru</key>
       <value>Тип объекта</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Object type</value>
     </title>
     <id>22</id>
     <valueType>
@@ -2421,6 +2701,10 @@
       <key>ru</key>
       <value>Имя таблицы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Table Name</value>
+    </title>
     <id>23</id>
     <valueType>
       <types>String</types>
@@ -2439,6 +2723,10 @@
       <key>ru</key>
       <value>Объект диаграммы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Chart Object</value>
+    </title>
     <id>24</id>
     <valueType/>
     <view>
@@ -2453,6 +2741,10 @@
     <title>
       <key>ru</key>
       <value>Диаграмма</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Chart</value>
     </title>
     <id>25</id>
     <valueType>
@@ -2470,6 +2762,10 @@
     <title>
       <key>ru</key>
       <value>Источник</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>A source</value>
     </title>
     <id>26</id>
     <valueType>
@@ -2489,6 +2785,10 @@
       <key>ru</key>
       <value>Приемник</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>The receiver</value>
+    </title>
     <id>27</id>
     <valueType>
       <types>String</types>
@@ -2507,6 +2807,10 @@
     <title>
       <key>ru</key>
       <value>Наименование</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Name</value>
     </title>
     <id>28</id>
     <valueType>
@@ -2529,6 +2833,10 @@
       <key>ru</key>
       <value>Это новый элемент</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>This is a new element</value>
+    </title>
     <id>29</id>
     <valueType>
       <types>Boolean</types>
@@ -2545,6 +2853,10 @@
     <title>
       <key>ru</key>
       <value>Представление элемента</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Element Representation</value>
     </title>
     <id>31</id>
     <valueType>
@@ -2564,6 +2876,10 @@
       <key>ru</key>
       <value>Путь к метаданным</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>The path to metadata</value>
+    </title>
     <id>32</id>
     <valueType>
       <types>String</types>
@@ -2582,6 +2898,10 @@
       <key>ru</key>
       <value>Значение изменено</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>The value has been changed</value>
+    </title>
     <id>33</id>
     <valueType>
       <types>Boolean</types>
@@ -2598,6 +2918,10 @@
     <title>
       <key>ru</key>
       <value>Уникальность объектов</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Uniqueness of objects</value>
     </title>
     <id>34</id>
     <valueType>
@@ -2619,6 +2943,10 @@
       <key>ru</key>
       <value>Сохранить</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Save</value>
+    </title>
     <id>1</id>
     <use>
       <common>true</common>
@@ -2635,6 +2963,10 @@
     <title>
       <key>ru</key>
       <value>Изменить</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>To change</value>
     </title>
     <id>2</id>
     <use>

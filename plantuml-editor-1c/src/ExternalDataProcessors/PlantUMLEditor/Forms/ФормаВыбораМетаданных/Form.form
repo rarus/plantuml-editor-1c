@@ -4,6 +4,10 @@
     <key>ru</key>
     <value>Выберите объекты для добавления в диаграмму</value>
   </title>
+  <title>
+    <key>en</key>
+    <value>Select the objects to add to the diagram</value>
+  </title>
   <items xsi:type="form:FormGroup">
     <name>ДополнительныеНастройки</name>
     <id>36</id>
@@ -83,6 +87,10 @@
     <title>
       <key>ru</key>
       <value>Дополнительные настройки</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Additional settings</value>
     </title>
     <extendedTooltip>
       <name>ДополнительныеНастройкиРасширеннаяПодсказка</name>
@@ -219,6 +227,10 @@
           <key>ru</key>
           <value>Имя объекта</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Object name</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -265,6 +277,10 @@
       <title>
         <key>ru</key>
         <value>КартинкаИмяОбъекта</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>The picture of the object name</value>
       </title>
       <extendedTooltip>
         <name>КартинкаИмяОбъектаРасширеннаяПодсказка</name>
@@ -432,6 +448,10 @@
         <key>ru</key>
         <value>Поле поиска объекта</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Object Search field</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -484,6 +504,10 @@
       <key>ru</key>
       <value>Объекты конфигурации</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Configuration Objects</value>
+    </title>
     <id>1</id>
     <valueType>
       <types>ValueTree</types>
@@ -499,6 +523,10 @@
       <title>
         <key>ru</key>
         <value>Имя объекта</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Object name</value>
       </title>
       <id>2</id>
       <valueType>
@@ -518,6 +546,10 @@
         <key>ru</key>
         <value>Представление объекта</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Object Representation</value>
+      </title>
       <id>3</id>
       <valueType>
         <types>String</types>
@@ -536,6 +568,10 @@
         <key>ru</key>
         <value>Картинка объекта</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Object image</value>
+      </title>
       <id>4</id>
       <valueType>
         <types>Picture</types>
@@ -552,6 +588,10 @@
       <title>
         <key>ru</key>
         <value>Пометка</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Tagging</value>
       </title>
       <id>5</id>
       <valueType>
@@ -570,6 +610,10 @@
         <key>ru</key>
         <value>Это группа</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>This is a band</value>
+      </title>
       <id>8</id>
       <valueType>
         <types>Boolean</types>
@@ -587,6 +631,10 @@
     <title>
       <key>ru</key>
       <value>Выбранные объекты</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Selected objects</value>
     </title>
     <id>6</id>
     <valueType>
@@ -608,6 +656,10 @@
       <key>ru</key>
       <value>Добавлять связи между объектами</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Add connections between objects</value>
+    </title>
     <id>9</id>
     <valueType>
       <types>Boolean</types>
@@ -625,6 +677,10 @@
       <key>ru</key>
       <value>Сгруппировать по видам метаданных</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Group by metadata type</value>
+    </title>
     <id>10</id>
     <valueType>
       <types>Boolean</types>
@@ -641,6 +697,10 @@
     <title>
       <key>ru</key>
       <value>Выбрать</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Choose</value>
     </title>
     <id>1</id>
     <use>

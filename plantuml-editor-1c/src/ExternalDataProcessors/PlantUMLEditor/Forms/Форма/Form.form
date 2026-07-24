@@ -118,6 +118,10 @@
             <key>ru</key>
             <value>НаименованиеТип</value>
           </title>
+          <title>
+            <key>en</key>
+            <value>Type Name</value>
+          </title>
           <readOnly>true</readOnly>
           <extendedTooltip>
             <name>РедакторДиаграммыГруппаНаименованиеТипРасширеннаяПодсказка</name>
@@ -262,6 +266,10 @@
                 <key>ru</key>
                 <value>Свойства элемента</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>Element Properties</value>
+              </title>
               <visible>true</visible>
               <enabled>true</enabled>
               <userVisible>
@@ -293,6 +301,10 @@
             <title>
               <key>ru</key>
               <value>Контекстное меню свойства элемента диаграммы</value>
+            </title>
+            <title>
+              <key>en</key>
+              <value>Context menu diagram element properties</value>
             </title>
             <extendedTooltip>
               <name>РедакторДиаграммыКонтекстноеМенюСвойстваРасширеннаяПодсказка</name>
@@ -396,6 +408,10 @@
               <key>ru</key>
               <value>Редактор диаграммы контекстное меню (добавление)</value>
             </title>
+            <title>
+              <key>en</key>
+              <value>Chart Editor context menu (add)</value>
+            </title>
             <extendedTooltip>
               <name>РедакторДиаграммыКонтекстноеМенюГруппаДобавлениеРасширеннаяПодсказка</name>
               <id>180</id>
@@ -417,6 +433,10 @@
               <title>
                 <key>ru</key>
                 <value>Удалить</value>
+              </title>
+              <title>
+                <key>en</key>
+                <value>Remove</value>
               </title>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -449,6 +469,10 @@
               <key>ru</key>
               <value>Редактор диаграммы контекстное меню (удаление)</value>
             </title>
+            <title>
+              <key>en</key>
+              <value>Chart Editor context menu (delete)</value>
+            </title>
             <extendedTooltip>
               <name>РедакторДиаграммыКонтекстноеМенюГруппаУдалениеРасширеннаяПодсказка</name>
               <id>182</id>
@@ -473,6 +497,10 @@
                 <title>
                   <key>ru</key>
                   <value>Не доступно</value>
+                </title>
+                <title>
+                  <key>en</key>
+                  <value>Not available</value>
                 </title>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -505,6 +533,10 @@
                 <key>ru</key>
                 <value>Тип элемента</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>Element Type</value>
+              </title>
               <extendedTooltip>
                 <name>РедакторДиаграммыКонтекстноеМенюГруппаТипыОбъектовДиаграммыРасширеннаяПодсказка</name>
                 <id>226</id>
@@ -530,6 +562,10 @@
               <key>ru</key>
               <value>Редактор диаграммы контекстное меню группа Типы объектов</value>
             </title>
+            <title>
+              <key>en</key>
+              <value>Diagram Editor context menu Object Types group</value>
+            </title>
             <extendedTooltip>
               <name>РедакторДиаграммыКонтекстноеМенюГруппаТипыОбъектовРасширеннаяПодсказка</name>
               <id>224</id>
@@ -551,6 +587,10 @@
               <title>
                 <key>ru</key>
                 <value>Переместить вверх</value>
+              </title>
+              <title>
+                <key>en</key>
+                <value>Move Up</value>
               </title>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -580,6 +620,10 @@
               <title>
                 <key>ru</key>
                 <value>Переместить вниз</value>
+              </title>
+              <title>
+                <key>en</key>
+                <value>Move it down</value>
               </title>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -611,6 +655,10 @@
             <title>
               <key>ru</key>
               <value>Редактор диаграммы контекстное меню (перемещение)</value>
+            </title>
+            <title>
+              <key>en</key>
+              <value>Chart Editor context menu (move)</value>
             </title>
             <extendedTooltip>
               <name>РедакторДиаграммыКонтекстноеМенюПеремещениеРасширеннаяПодсказка</name>
@@ -664,6 +712,10 @@
               <key>ru</key>
               <value>Группа переместить</value>
             </title>
+            <title>
+              <key>en</key>
+              <value>Move group</value>
+            </title>
             <extendedTooltip>
               <name>РедакторДиаграммыКонтекстноеМенюГруппаПереносаРасширеннаяПодсказка</name>
               <id>413</id>
@@ -710,6 +762,10 @@
       <title>
         <key>ru</key>
         <value>Группа редактор</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>The Editor Group</value>
       </title>
       <extendedTooltip>
         <name>ГруппаРедактораРасширеннаяПодсказка</name>
@@ -881,6 +937,10 @@
         <key>ru</key>
         <value>Группа результат</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>The result group</value>
+      </title>
       <width>50</width>
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
@@ -914,6 +974,10 @@
       <key>ru</key>
       <value>Группа редактор и результат диаграммы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Group editor and chart result</value>
+    </title>
     <extendedTooltip>
       <name>ГруппаРедактораИРезультатаРасширеннаяПодсказка</name>
       <id>72</id>
@@ -946,6 +1010,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовstruct</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The picture of the program classstruct</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -981,6 +1049,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовprotocol</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Classprotocol program</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1014,6 +1086,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовinterface</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The picture of the Classinterface program</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1049,6 +1125,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовenum</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The picture of the programclass is</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1082,6 +1162,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовentity</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclassentity</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1117,6 +1201,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовАссоциацияуменьшеннаяформа</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclass Association of the smaller form</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1150,6 +1238,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовdiamond</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a Classdiamond program</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1185,6 +1277,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовclass</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a classgramclass</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1218,6 +1314,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовКругуменьшеннаяформа</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclass with a smaller form</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1253,6 +1353,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовcircle</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a Classcircle program</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1286,6 +1390,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовabstractclass</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of a classagramsabstractclass</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1321,6 +1429,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовabstract</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Classabstract program</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1355,6 +1467,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаМетод</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectmethod</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1388,6 +1504,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаПоле</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Objectfield</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1425,6 +1545,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаСвязь</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectconnection</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1459,6 +1583,10 @@
           <key>ru</key>
           <value>КартинкаДиаграммыКлассовannotation</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the programclassannotation</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1492,6 +1620,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДобавитьОбъектДиаграммыКлассов</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The Picture is to add an objectdiagrams of classes</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1529,6 +1661,10 @@
         <key>ru</key>
         <value>ГруппаКартинокДиаграммыКлассов</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>A group of class maps and programs</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаКартинокДиаграммыКлассовРасширеннаяПодсказка</name>
         <id>294</id>
@@ -1560,6 +1696,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДобавитьОбъектДиаграммыПоследовательностей</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The picture is to add an object to the Sequence diagram</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1595,6 +1735,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаqueue</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectqueue</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1628,6 +1772,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаcollections</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectcollections</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1663,6 +1811,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаdatabase</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Database objectdatabase</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1696,6 +1848,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаparticipant</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectparticipant</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1731,6 +1887,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаcontrol</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the Controlobject</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1764,6 +1924,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаboundary</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of an objectboundary</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1799,6 +1963,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаactor</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectactor</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1832,6 +2000,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаparticipant</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectparticipant</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1869,6 +2041,10 @@
         <key>ru</key>
         <value>ГруппаКартинокДиаграммыПоследовательностей</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>A group of Picture diagrams of sequences</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаКартинокДиаграммыПоследовательностейРасширеннаяПодсказка</name>
         <id>344</id>
@@ -1900,6 +2076,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаДобавитьОбъектДиаграммыДеятельности</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>The picture is to add an object to the program of activity</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1935,6 +2115,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаend</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectend</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -1968,6 +2152,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаfork</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture offork objectfork</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2003,6 +2191,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаbreak</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of Thebreak objectreferences</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -2036,6 +2228,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаwhile</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectwhile</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2071,6 +2267,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаswitch</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectswitch</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -2104,6 +2304,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаif</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectif</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2139,6 +2343,10 @@
           <key>ru</key>
           <value>КартинкаТипОбъектаstart</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectstart</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -2172,6 +2380,10 @@
         <title>
           <key>ru</key>
           <value>КартинкаТипОбъектаdo</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Picture of the objectdo</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2209,6 +2421,10 @@
         <key>ru</key>
         <value>ГруппаКартинокДиаграммыДеятельности</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>groupcarthinocdiagramme of activity</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаКартинокДиаграммыДеятельностиРасширеннаяПодсказка</name>
         <id>354</id>
@@ -2237,6 +2453,10 @@
       <title>
         <key>ru</key>
         <value>КартинкаСвязи</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>The picture of the connection</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2272,6 +2492,10 @@
         <key>ru</key>
         <value>КартинкаДиаграммыКлассов</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>A picture of a class's program</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -2305,6 +2529,10 @@
       <title>
         <key>ru</key>
         <value>КартинкаДиаграммыДеятельности</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Picture of the Program activity</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2340,6 +2568,10 @@
         <key>ru</key>
         <value>КартинкаДиаграммыПоследовательности</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Picture of the Sequence Diagram</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -2374,6 +2606,10 @@
     <title>
       <key>ru</key>
       <value>Картинки</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Pictures</value>
     </title>
     <extendedTooltip>
       <name>ГруппаКартинокРасширеннаяПодсказка</name>
@@ -2411,6 +2647,10 @@
       <title>
         <key>ru</key>
         <value>Тип</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Type</value>
       </title>
       <extendedTooltip>
         <name>ПодменюТипДиаграммыРасширеннаяПодсказка</name>
@@ -2520,6 +2760,10 @@
         <key>ru</key>
         <value>Группа добавления нового элемента диаграммы</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>The group for adding a new chart element</value>
+      </title>
       <extendedTooltip>
         <name>РедакторДиаграммыГруппаДобавитьОбъектСвязьРасширеннаяПодсказка</name>
         <id>122</id>
@@ -2543,6 +2787,10 @@
         <title>
           <key>ru</key>
           <value>Не доступно</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Not available</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2575,6 +2823,10 @@
         <key>ru</key>
         <value>Тип элемента</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Element Type</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаТипыОбъектовРасширеннаяПодсказка</name>
         <id>178</id>
@@ -2597,6 +2849,10 @@
       <title>
         <key>ru</key>
         <value>Свойства</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Properties</value>
       </title>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2718,6 +2974,10 @@
           <key>ru</key>
           <value>Метаданные</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Metadata</value>
+        </title>
         <extendedTooltip>
           <name>ПодменюЗаполнениеМетаданнымиРасширеннаяПодсказка</name>
           <id>251</id>
@@ -2770,6 +3030,10 @@
         <key>ru</key>
         <value>Группа заполнения и обновления диаграммы</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Chart Filling and Updating Group</value>
+      </title>
       <extendedTooltip>
         <name>ГруппаЗаполенияОбновленияРасширеннаяПодсказка</name>
         <id>283</id>
@@ -2791,6 +3055,10 @@
         <title>
           <key>ru</key>
           <value>Переместить вверх</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Move Up</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2820,6 +3088,10 @@
         <title>
           <key>ru</key>
           <value>Переместить вниз</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Move it down</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2851,6 +3123,10 @@
       <title>
         <key>ru</key>
         <value>Группа перемещения элементов диаграммы</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Diagram Element Movement Group</value>
       </title>
       <extendedTooltip>
         <name>ГруппаВверхВнизРасширеннаяПодсказка</name>
@@ -2933,6 +3209,10 @@
       <title>
         <key>ru</key>
         <value>Группа свернуть/развернуть</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Collapse/expand group</value>
       </title>
       <extendedTooltip>
         <name>ГруппаСвернутьРазвернутьРасширеннаяПодсказка</name>
@@ -3103,6 +3383,10 @@
           <key>ru</key>
           <value>Группа файл</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The file group</value>
+        </title>
         <extendedTooltip>
           <name>ГруппаФайлРасширеннаяПодсказка</name>
           <id>261</id>
@@ -3181,6 +3465,10 @@
           <key>ru</key>
           <value>Группа текущей диаграммы</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The group of the current chart</value>
+        </title>
         <extendedTooltip>
           <name>ГруппаТекущаяДиаграммаРасширеннаяПодсказка</name>
           <id>265</id>
@@ -3202,6 +3490,10 @@
           <title>
             <key>ru</key>
             <value>Текст PlantUML</value>
+          </title>
+          <title>
+            <key>en</key>
+            <value>Text of PlantUML</value>
           </title>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3265,6 +3557,10 @@
           <key>ru</key>
           <value>Группа общих настроек</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The General Settings Group</value>
+        </title>
         <extendedTooltip>
           <name>ГруппаОбщихНастроекРасширеннаяПодсказка</name>
           <id>267</id>
@@ -3285,6 +3581,10 @@
       <title>
         <key>ru</key>
         <value>Файл</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>File</value>
       </title>
       <extendedTooltip>
         <name>ПодменюФайлРасширеннаяПодсказка</name>
@@ -3379,6 +3679,10 @@
           <key>ru</key>
           <value>Свойство</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Property</value>
+        </title>
         <id>9</id>
         <valueType>
           <types>String</types>
@@ -3399,6 +3703,10 @@
       <key>ru</key>
       <value>Редактор диаграммы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Chart Editor</value>
+    </title>
     <id>2</id>
     <valueType>
       <types>ValueTree</types>
@@ -3414,6 +3722,10 @@
       <title>
         <key>ru</key>
         <value>Наименование</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Name</value>
       </title>
       <id>4</id>
       <valueType>
@@ -3435,6 +3747,10 @@
         <key>ru</key>
         <value>Тип</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Type</value>
+      </title>
       <id>5</id>
       <valueType>
         <types>String</types>
@@ -3453,6 +3769,10 @@
         <key>ru</key>
         <value>Ключ</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Key</value>
+      </title>
       <id>8</id>
       <valueType>
         <types>UUID</types>
@@ -3469,6 +3789,10 @@
       <title>
         <key>ru</key>
         <value>Приемник связи</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Communication receiver</value>
       </title>
       <id>12</id>
       <valueType>
@@ -3490,6 +3814,10 @@
         <key>ru</key>
         <value>Картинка типа элемента</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Image of the element type</value>
+      </title>
       <id>18</id>
       <valueType>
         <types>Picture</types>
@@ -3506,6 +3834,10 @@
       <title>
         <key>ru</key>
         <value>Путь к метаданным</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>The path to metadata</value>
       </title>
       <id>37</id>
       <valueType>
@@ -3527,6 +3859,10 @@
         <key>ru</key>
         <value>Выводить элемент</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Output an element</value>
+      </title>
       <id>39</id>
       <valueType>
         <types>Boolean</types>
@@ -3543,6 +3879,10 @@
       <title>
         <key>ru</key>
         <value>Наименование</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Name</value>
       </title>
       <id>42</id>
       <valueType>
@@ -3563,6 +3903,10 @@
       <key>ru</key>
       <value>Тип текущей диаграммы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Current chart Type</value>
+    </title>
     <id>10</id>
     <valueType>
       <types>String</types>
@@ -3581,6 +3925,10 @@
       <key>ru</key>
       <value>Текущая диаграмма</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Current chart</value>
+    </title>
     <id>11</id>
     <valueType/>
     <view>
@@ -3595,6 +3943,10 @@
     <title>
       <key>ru</key>
       <value>Результат картинка</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>The result is a picture</value>
     </title>
     <id>13</id>
     <valueType>
@@ -3614,6 +3966,10 @@
       <key>ru</key>
       <value>Результат текст plant UML</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Result text plant UML</value>
+    </title>
     <id>15</id>
     <valueType>
       <types>String</types>
@@ -3632,6 +3988,10 @@
       <key>ru</key>
       <value>Типы диаграмм</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Types of diagrams</value>
+    </title>
     <id>17</id>
     <valueType/>
     <view>
@@ -3646,6 +4006,10 @@
     <title>
       <key>ru</key>
       <value>Предыдущее имя элемента</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Previous element name</value>
     </title>
     <id>22</id>
     <valueType>
@@ -3665,6 +4029,10 @@
       <key>ru</key>
       <value>Типы объектов</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Types of objects</value>
+    </title>
     <id>27</id>
     <valueType>
       <types>ValueTable</types>
@@ -3680,6 +4048,10 @@
       <title>
         <key>ru</key>
         <value>Имя элемента</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Element Name</value>
       </title>
       <id>28</id>
       <valueType>
@@ -3699,6 +4071,10 @@
         <key>ru</key>
         <value>Значение</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Meaning</value>
+      </title>
       <id>29</id>
       <valueType>
         <types>String</types>
@@ -3716,6 +4092,10 @@
       <title>
         <key>ru</key>
         <value>Вид объекта</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Object type</value>
       </title>
       <id>30</id>
       <valueType>
@@ -3735,6 +4115,10 @@
         <key>ru</key>
         <value>Тип диаграммы</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Chart Type</value>
+      </title>
       <id>31</id>
       <valueType>
         <types>String</types>
@@ -3752,6 +4136,10 @@
       <title>
         <key>ru</key>
         <value>Представление значения</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Representation of the value</value>
       </title>
       <id>43</id>
       <valueType>
@@ -3772,6 +4160,10 @@
       <key>ru</key>
       <value>Имя текущего типа объекта</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>The name of the current object type</value>
+    </title>
     <id>32</id>
     <valueType>
       <types>String</types>
@@ -3789,6 +4181,10 @@
     <title>
       <key>ru</key>
       <value>Адрес сервера рендеринга</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Address of the rendering server</value>
     </title>
     <id>35</id>
     <valueType>
@@ -3811,6 +4207,10 @@
       <key>ru</key>
       <value>Адрес картинки во временном хранилище</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>The address of the image in the temporary storage</value>
+    </title>
     <id>36</id>
     <valueType>
       <types>String</types>
@@ -3828,6 +4228,10 @@
     <title>
       <key>ru</key>
       <value>Показать текст UML</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Show UML text</value>
     </title>
     <id>38</id>
     <valueType>
@@ -3849,6 +4253,10 @@
       <key>ru</key>
       <value>Условие вывода элемента</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Element output condition</value>
+    </title>
     <id>41</id>
     <valueType/>
     <view>
@@ -3863,6 +4271,10 @@
     <title>
       <key>ru</key>
       <value>Имя пути к файлу настроек</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>The name of the path to the settings file</value>
     </title>
     <id>45</id>
     <valueType>
@@ -3881,6 +4293,10 @@
     <title>
       <key>ru</key>
       <value>Обновить</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Generate</value>
     </title>
     <id>4</id>
     <use>
@@ -3903,10 +4319,18 @@
       <key>ru</key>
       <value>Сохранить как...</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Save as...</value>
+    </title>
     <id>6</id>
     <toolTip>
       <key>ru</key>
       <value>Сохранить настройки в файл</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>Save settings to a file</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -3926,10 +4350,18 @@
       <key>ru</key>
       <value>Открыть</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Open</value>
+    </title>
     <id>7</id>
     <toolTip>
       <key>ru</key>
       <value>Загрузить настройки из файла</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>Download settings from a file</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -3948,6 +4380,10 @@
     <title>
       <key>ru</key>
       <value>Метаданные конфигурации</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Configuration Metadata</value>
     </title>
     <id>10</id>
     <use>
@@ -3968,6 +4404,10 @@
       <key>ru</key>
       <value>О программе</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>About the program</value>
+    </title>
     <id>11</id>
     <use>
       <common>true</common>
@@ -3986,10 +4426,18 @@
       <key>ru</key>
       <value>Добавить объект</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Add an object</value>
+    </title>
     <id>12</id>
     <toolTip>
       <key>ru</key>
       <value>Добавить объект</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>Add an object</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -4012,10 +4460,18 @@
       <key>ru</key>
       <value>Добавить связь</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Add a link</value>
+    </title>
     <id>13</id>
     <toolTip>
       <key>ru</key>
       <value>Добавить связь</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>Add a link</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -4038,6 +4494,10 @@
       <key>ru</key>
       <value>Настройки диаграммы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Chart Settings</value>
+    </title>
     <id>15</id>
     <use>
       <common>true</common>
@@ -4055,10 +4515,18 @@
       <key>ru</key>
       <value>Показать свойства</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Show properties</value>
+    </title>
     <id>18</id>
     <toolTip>
       <key>ru</key>
       <value>Вывести для редактирования свойства элементов диаграммы</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>Output properties of chart elements for editing</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -4076,6 +4544,10 @@
       <key>ru</key>
       <value>Не доступно</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Not available</value>
+    </title>
     <id>19</id>
     <use>
       <common>true</common>
@@ -4087,6 +4559,10 @@
     <title>
       <key>ru</key>
       <value>Общие настройки</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>General settings</value>
     </title>
     <id>21</id>
     <use>
@@ -4104,6 +4580,10 @@
     <title>
       <key>ru</key>
       <value>Экспорт картинки</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Exporting an image</value>
     </title>
     <id>22</id>
     <use>
@@ -4123,6 +4603,10 @@
       <key>ru</key>
       <value>Поля текущего объекта</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Fields of the current object</value>
+    </title>
     <id>24</id>
     <use>
       <common>true</common>
@@ -4141,10 +4625,18 @@
       <key>ru</key>
       <value>Показать текст UML</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Show UML text</value>
+    </title>
     <id>26</id>
     <toolTip>
       <key>ru</key>
       <value>Показать / скрыть текст PlantUML</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>Show/ hide text of PlantUML</value>
     </toolTip>
     <use>
       <common>true</common>
@@ -4161,6 +4653,10 @@
     <title>
       <key>ru</key>
       <value>Новый</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>New</value>
     </title>
     <id>27</id>
     <use>
@@ -4179,6 +4675,10 @@
     <title>
       <key>ru</key>
       <value>Свернуть все</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Collapse everything</value>
     </title>
     <id>33</id>
     <use>
@@ -4200,6 +4700,10 @@
       <key>ru</key>
       <value>Развернуть все</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Expand everything</value>
+    </title>
     <id>34</id>
     <use>
       <common>true</common>
@@ -4220,6 +4724,10 @@
       <key>ru</key>
       <value>Заполнить связи объекта</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Fill in the object's connections</value>
+    </title>
     <id>35</id>
     <use>
       <common>true</common>
@@ -4237,6 +4745,10 @@
     <title>
       <key>ru</key>
       <value>Добавить группу</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Add a group</value>
     </title>
     <id>36</id>
     <use>
@@ -4257,6 +4769,10 @@
       <key>ru</key>
       <value>Вынести из группы</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Remove from the group</value>
+    </title>
     <id>37</id>
     <use>
       <common>true</common>
@@ -4273,6 +4789,10 @@
     <title>
       <key>ru</key>
       <value>Сохранить</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Save</value>
     </title>
     <id>39</id>
     <use>

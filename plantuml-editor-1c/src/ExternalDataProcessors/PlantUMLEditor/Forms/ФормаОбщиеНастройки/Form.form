@@ -4,6 +4,10 @@
     <key>ru</key>
     <value>Общие настройки</value>
   </title>
+  <title>
+    <key>en</key>
+    <value>General settings</value>
+  </title>
   <items xsi:type="form:FormField">
     <name>АдресСервераРендеринга</name>
     <id>1</id>
@@ -18,6 +22,10 @@
     <toolTip>
       <key>ru</key>
       <value>Адрес сервера PlantUML, с которого будет осуществляться визуализация диаграммы.</value>
+    </toolTip>
+    <toolTip>
+      <key>en</key>
+      <value>The address of the PlantUML server from which the diagram will be visualized.</value>
     </toolTip>
     <toolTipRepresentation>Button</toolTipRepresentation>
     <extendedTooltip>
@@ -91,6 +99,10 @@
         <key>ru</key>
         <value>Вывести информацию о сервере</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Display information about the server</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -131,6 +143,10 @@
     <title>
       <key>ru</key>
       <value>ГруппаВыводаИнформации</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Information Output Group</value>
     </title>
     <extendedTooltip>
       <name>ГруппаВыводаИнформацииРасширеннаяПодсказка</name>
@@ -202,6 +218,10 @@
       <key>ru</key>
       <value>Адрес сервера</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Server address</value>
+    </title>
     <id>1</id>
     <valueType>
       <types>String</types>
@@ -219,6 +239,10 @@
     <title>
       <key>ru</key>
       <value>Записать и закрыть</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Record and close</value>
     </title>
     <id>1</id>
     <use>
