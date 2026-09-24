@@ -10,6 +10,10 @@
         <key>ru</key>
         <value>Декорация1</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Decoration1</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -47,6 +51,10 @@
         <key>ru</key>
         <value>ОтступЛоготип</value>
       </title>
+      <title>
+        <key>en</key>
+        <value>Indentation type</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -82,6 +90,10 @@
       <key>ru</key>
       <value>Лево</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Left</value>
+    </title>
     <extendedTooltip>
       <name>ЛевоРасширеннаяПодсказка</name>
       <id>2</id>
@@ -115,6 +127,10 @@
         <title>
           <key>ru</key>
           <value>Инструменты 1С-Рарус</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>1C-Rarus Tools</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -161,6 +177,10 @@
             <key>ru</key>
             <value>Версия:</value>
           </title>
+          <title>
+            <key>en</key>
+            <value>Version:</value>
+          </title>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -193,6 +213,10 @@
           <id>16</id>
           <title>
             <key>ru</key>
+            <value>0.0.0.0</value>
+          </title>
+          <title>
+            <key>en</key>
             <value>0.0.0.0</value>
           </title>
           <visible>true</visible>
@@ -231,6 +255,10 @@
           <key>ru</key>
           <value>Группа версия программы</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The program version group</value>
+        </title>
         <extendedTooltip>
           <name>ГруппаВерсияПрограммыРасширеннаяПодсказка</name>
           <id>68</id>
@@ -259,6 +287,10 @@
       <title>
         <key>ru</key>
         <value>Название</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Title</value>
       </title>
       <extendedTooltip>
         <name>ГруппаНазваниеРасширеннаяПодсказка</name>
@@ -290,6 +322,10 @@
         <title>
           <key>ru</key>
           <value>Исключительная лицензия на использование:</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>Exclusive license to use:</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -324,6 +360,10 @@
         <title>
           <key>ru</key>
           <value>ООО &quot;1С-Рарус&quot;, ИНН 7707079463</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>1C-Rarus LLC, TIN 7707079463</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -389,6 +429,10 @@
           <key>ru</key>
           <value>Распространяется по лицензии:</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Distributed under a license:</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -423,6 +467,10 @@
           <key>ru</key>
           <value>Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -431,6 +479,10 @@
         <toolTip>
           <key>ru</key>
           <value>Свободное использование кем угодно в любых целях, при условии сохранения указания авторских прав и логотипа компании 1С-РАРУС. При включении в состав тиражируемого программного продукта/сервиса обязательное указание о заимствовании в документации.</value>
+        </toolTip>
+        <toolTip>
+          <key>en</key>
+          <value>Free use by anyone for any purpose, provided that the copyright and the 1C-RARUS company logo are preserved. When included in the replicated software product/service, there is a mandatory indication of borrowing in the documentation.</value>
         </toolTip>
         <toolTipRepresentation>Button</toolTipRepresentation>
         <extendedTooltip>
@@ -460,6 +512,11 @@
         <id>35</id>
         <title>
           <key>ru</key>
+          <value>&lt;link https://creativecommons.org/licenses/by-sa/4.0/>https://creativecommons.org/licenses/by-sa/4.0/&lt;/>
+</value>
+        </title>
+        <title>
+          <key>en</key>
           <value>&lt;link https://creativecommons.org/licenses/by-sa/4.0/>https://creativecommons.org/licenses/by-sa/4.0/&lt;/>
 </value>
         </title>
@@ -528,6 +585,10 @@
           <key>ru</key>
           <value>Автор:</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Author:</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -565,6 +626,10 @@
             <key>ru</key>
             <value>Казачков Дмитрий</value>
           </title>
+          <title>
+            <key>en</key>
+            <value>Kazachkov Dmitry</value>
+          </title>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -600,6 +665,10 @@
         <title>
           <key>ru</key>
           <value>Перечень авторов</value>
+        </title>
+        <title>
+          <key>en</key>
+          <value>List of authors</value>
         </title>
         <extendedTooltip>
           <name>ГруппаПереченьАвторовРасширеннаяПодсказка</name>
@@ -659,6 +728,10 @@
           <key>ru</key>
           <value>Репозиторий проекта:</value>
         </title>
+        <title>
+          <key>en</key>
+          <value>Project Repository:</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -691,6 +764,11 @@
         <id>56</id>
         <title>
           <key>ru</key>
+          <value>&lt;color #0000ee>&lt;u>https://github.com/rarus/&lt;/>&lt;/>
+</value>
+        </title>
+        <title>
+          <key>en</key>
           <value>&lt;color #0000ee>&lt;u>https://github.com/rarus/&lt;/>&lt;/>
 </value>
         </title>
@@ -759,6 +837,10 @@
           <key>ru</key>
           <value>Инструмент распространяется &quot;как есть&quot; в составе проекта &lt;link https://rarus.ru/instruments/>Инструменты 1С-Рарус&lt;/></value>
         </title>
+        <title>
+          <key>en</key>
+          <value>The tool is distributed &quot;as is&quot; as part of the project &lt;link https://rarus.ru/instruments />1C-Rarus Tools&lt;/></value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -822,6 +904,10 @@
       <key>ru</key>
       <value>Основное</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Basic</value>
+    </title>
     <extendedTooltip>
       <name>ОсновноеРасширеннаяПодсказка</name>
       <id>10</id>
@@ -866,6 +952,10 @@
     <title>
       <key>ru</key>
       <value>Объект</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>An object</value>
     </title>
     <id>1</id>
     <valueType>
